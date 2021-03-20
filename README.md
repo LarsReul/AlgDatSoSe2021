@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MSimonFRA-UAS/AlgDatSoSe2021/blob/master) <-- click here to open the Jupyter notebooks without any installation in a web browser
+
 # AlgDat
 
 Supplemental material for lecture Algorithms and Data Structures
